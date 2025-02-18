@@ -1,0 +1,87 @@
+sku,precio,moneda,nombre
+PS-SL-A287,1250.00, USD ,"Alliance 150W HPS 25' Luminaire and Pole, Silver"
+PS-SL-A288,1250.00, USD ,"Alliance 100W HPS 25' Luminaire and Pole, Silver"
+PS-SL-H309,1250.00, USD ,"Helm 150W HPS 30' Luminaire and Pole, Black"
+PS-SL-H310,1250.00, USD ,"Helm 100W HPS 30' Luminaire and Pole, Black"
+PS-SL-F342,1250.00, USD ,"Flatbush Avenue Twin 250W 30' Teardrop Lumi. and Pole, Black"
+PS-SL-F343,1250.00, USD ,"Flatbush Avenue Single 250W 30' Teardrop Lumi. and Pole, Black"
+PS-SL-F344,1250.00, USD ,"Flatbush Avenue Twin 250W 30' Teardrop Lumi. and Pole, Brown"
+PS-SL-F345,1250.00, USD ,"Flatbush Avenue Single 250W 30' Teardrop Lumi. and Pole, Brown"
+PS-SL-B122,1250.00, USD ,Bishops Crook 250W HPS Historical teardrop Lumi. and pole
+PS-SL-A123,1250.00, USD ,Bishops Crook IES Type III Historical teardrop Lumi. and pole
+PS-SL-C280,1250.00, USD ,"City Light 150W HPS 30' Luminaire and Pole, Black"
+PS-SL-C193,1250.00, USD ,"City Light 100W HPS 30' Luminaire and Pole, Black"
+PS-SL-L327,1250.00, USD ,"LED Type E Twin 250W 30' Teardrop Lumi. and Pole, Brown"
+PS-SL-L393,1250.00, USD ,"LED Type E Single 250W 30' Teardrop Lumi. and Pole, Brown"
+PS-SL-KIT,0.00, USD ,Public Sector Street Lighting Universal Installation Kit
+PS-SL-INFO,0.00, USD ,Public Sector Street Lighting Universal Installation Instructions
+PS-PL-C295,1250.00, USD ,"Cobra Head 150W HPS 30' Luminaire and Pole, Black"
+PS-PL-C167,1250.00, USD ,"Cobra Head 100W HPS 30' Luminaire and Pole, Black"
+PS-PL-S459,1250.00, USD ,"Stad Twin 250W 30' Teardrop Lumi. and Pole, Black"
+PS-PL-S236,1250.00, USD ,"Stad Single 250W 30' Teardrop Lumi. and Pole, Black"
+PS-PL-F206,1250.00, USD ,"Fulton Twin 250W 30' Teardrop Lumi. and Pole, Black"
+PS-PL-F158,1250.00, USD ,"Fulton Single 250W 30' Teardrop Lumi. and Pole, Black"
+PS-PL-F242,1250.00, USD ,"Flushing Meadows 150W HPS 25' Luminaire and Pole, Silver"
+PS-PL-F388,1250.00, USD ,"Flushing Meadows 100W HPS 25' Luminaire and Pole, Silver"
+PS-PL-W140,1250.00, USD ,"World's Fair 150W HPS 30' Luminaire and Pole, Black"
+PS-PL-W381,1250.00, USD ,"World's Fair 100W HPS 30' Luminaire and Pole, Black"
+PS-PL-R186,1250.00, USD ,Round Top Head IES Type III Historical teardrop Lumi. and pole
+PS-PL-KIT,0.00, USD ,Public Sector Pedestrian Lighting Universal Installation Kit
+PS-PL-INFO,0.00, USD ,Public Sector Pedestrian Lighting Universal Installation Instructions
+PS-TS-T264,1450.00, USD ,Type M-2 Traffic Signal Pole 
+PS-TS-A318,1450.00, USD ,Alliance Traffic Signal Pole 
+PS-TS-KIT,0.00, USD ,Public Sector Traffic Signal Pole Universal Installation Kit
+PS-TS-INFO,0.00, USD ,Public Sector Traffic Signal Pole Universal Installation Instructions
+CO-CO-V310,100.00, USD ,Ventura 48VDC control module
+CO-CO-N311,250.00, USD ,Northridge  230VAC control module
+CO-CO-M328,125.00, USD ,Miramar  110VAC control module
+CO-DL-T316,55.00, USD ,Tulare 6 inch recessed downlight
+CO-DL-A239,48.00, USD ,Alameda 5 inch recessed downlight
+CO-DL-A230,51.00, USD ,Alpine Water resistant 6 inch downlight
+CO-RD-I380,78.00, USD ,Imperial  6 inch recessed downlight
+CO-RD-S282,88.00, USD ,Sunset  5 inch recessed downlight
+CO-RD-R296,93.00, USD ,Riverside Water resistant 6 inch downlight
+CO-AM-B209,120.00, USD ,Buccaneer Wall mount luminous panel
+CO-AM-S185,289.00, USD ,Santa Cruz 15W overhead lighting
+CO-AM-S393,183.00, USD ,Stinson Exterior daylight sensing area LED
+29000462,95.00, USD ,NaHP-TC Sodium Bulb 480V
+29000469,108.00, USD ,NaHP-TC Sodium Bulb 600v
+7900128,320.00, USD ,"Lighting Controller, Base Mounted, 480volt, 200amp"
+82500380,350.00, USD ,"Lighting Controller, Base Mounted, 600volt, 200amp"
+7900063,50.00, USD ,"Junction Box 8"" X 24"" X 10"""
+2510188,412.00, USD ,U/G Supply To Pole-Mounted Luminaire
+9665304,422.00, USD ,U/G Supply To Pole-Mounted Luminaire At The
+23000362,455.00, USD ,"Electric Cable In Conduit, 600v"
+81028220,122.00, USD ,"Underground Conduit, Galvanized Steel, 3"" Dia."
+81603000,55.00, USD ,"Unit Duct, 600v, 2-1c No. 8, 1/C No. 8 Ground, (Xlp-Type Use),"
+81603030,55.00, USD ,"Unit Duct, 600v, 2-1c No. 4, 1/C No. 6 Ground, (Xlp-Type Use),"
+86000121,55.00, USD ,"Unit Duct, 600v, 4-1c No.6, 1/C No.6 Ground"
+86000123,55.00, USD ,"Unit Duct, 600v, 2-1c No.4, 1/C No.6 Ground"
+86000124,55.00, USD ,"Unit Duct, 600v, 2-1c No.2, 1/C No.4 Ground"
+39000221,190.00, USD ,230 cm Acrylic Street Lamp Lens
+39000224,203.00, USD ,340 cm Acrylic Street Lamp Lens
+2000287,112.00, USD ,"Luminaire, Metal Halide, Horizontal Mount, 70 Watt, Special"
+8210677,189.00, USD ,"Luminaire, Metal Halide, Horizontal Mount, 400 Watt, Special"
+9665303,950.00, USD ,Cobra Head Luminaire
+45000222,774.00, USD ,"Luminaire, Sodium Vapor, Horizontal Mount, 400 Watt"
+45000223,774.00, USD ,"Luminaire, Sodium Vapor, Horizontal Mount, 600 Watt"
+45000225,774.00, USD ,"Luminaire, Sodium Vapor, Horizontal Mount, 800 Watt"
+45000226,774.00, USD ,"Luminaire, Sodium Vapor, Horizontal Mount, 1000 Watt"
+7900012,5.00, USD ,"Bolt Machine 5/8"" X 10""- 11 Unc Square Head And Nut"
+7900014,19.00, USD ,"Buckle 3/4"" Banding Steel"
+7900015,3.00, USD ,"Washer Curved Square Galv 2"" X 2"" For 4"" Bolt"
+9664144,24.00, USD ,"Banding Stainless Steel 0.030"" X 100' Roll"
+9665306,3.00, USD ,"Washer Galv Square 2"" X 2"" For 3"" Bolt"
+2530003,1290.00, USD ,Pole Concrete 35' Round Class C Direct Buried
+2530020,1180.00, USD ,Pole Concrete 30' Round Class C Direct Buried
+7903986,990.00, USD ,Pole Concrete 25' Round Class C Base Mounted
+8220072,1452.00, USD ,Pole Concrete 40' Round Class C Direct Buried
+83008200,2398.00, USD ,"Light Pole, Aluminum, 40 Ft. M.H., 6 Ft. Mast Arm Each 17"
+83008300,4592.00, USD ,"Light Pole, Aluminum, 40 Ft. M.H., 8 Ft. Mast Arm Each 7"
+83008400,5530.00, USD ,"Light Pole, Aluminum, 40 Ft. M.H., 10 Ft. Mast Arm Each 37"
+89820200,2349.00, USD ,"Light Pole, Galvanized Steel, 50 Ft. M.H., 12 Ft. Mast Arm, Twin"
+83600200,1287.00, USD ,"Light Pole Foundation, 24"" Diameter"
+83600300,1456.00, USD ,"Light Pole Foundation, 30"" Diameter"
+9664145,833.00, USD ,Bracket Al Tapered 6' Reach
+9664146,1032.00, USD ,Bracket Al Tapered 8' Reach
+9664147,976.00, USD ,Bracket Al Tapered 7' Rise
