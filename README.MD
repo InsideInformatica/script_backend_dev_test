@@ -1,16 +1,16 @@
-# Prueba tecnica inside informatica
+# Prueba tecnica Inside Informatica
 
 Teniendo en cuenta los dos archivos:
 - inventario.csv
 - productos csv
 
-se debe filtrar los siguientes datos:
+Se deben filtrar los siguientes datos:
 
 - sku -> columna *N0* sobre ambos archivos
 - precio -> columna *N1* sobre productos.csv
 - stock -> columna *N1* sobre inventario.csv
 
-y generar un csv resultante de la siguente manera
+Y generar un csv resultante de la siguente manera:
 
 - sku -> sku del producto filtrado
 - precio_final -> precio del producto + 21%
@@ -22,7 +22,7 @@ sku,precio_final,stock
 PS-SL-A287,1512,50,25
 ```
 
-Se detallan ejemplos de escritura y lectura de archivos csv.
+Se detallan ejemplos de escritura y lectura de archivos csv:
 
 ```python
 # Lectura de csv
